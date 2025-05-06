@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/317817292563939330)](https://discord.com/users/317817292563939330)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1360436253018951760)](https://discord.com/users/1360436253018951760)
 
 <h1 align="center">Hi 👋, I'm Gloomy</h1>
 <h3 align="center">A passionate Web developer & backend from United States</h3>
