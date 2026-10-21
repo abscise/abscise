@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Chino</h1>
 <h3 align="center">A passionate Web developer, Roblox Developer & backend from United States</h3>
 
-![](https://komarev.com/ghpvc/?username=abscise&label=Profile%20views&color=lightgray&style=flat)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abscise&label=Profile%20views&color=lightgray&style=flat" alt="abscise" /> </p>
 
 - 🔭 I’m currently working on [Mahanaim Church](https://mahanaim.church)
 
